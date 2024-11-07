@@ -47,7 +47,7 @@ textarea {
 }
 h1, h2, h3, h4, h3, h5, h6 {
     clear: both;
-    color: #013162;
+    color: #4A4A4A;
     padding: 0;
     margin: 0 0 10px 0;
     font-weight: 400;
@@ -150,8 +150,8 @@ a:active {
 
 /*Button tm-Style1*/
 .tm-btn {
-    background-color: #0058ae;
-    border: 1px solid #0058ae;
+    background-color: #ffc107;
+    border: 1px solid #ffc107;
     color: #fff;
     display: inline-block;
     padding: 10px 20px;
@@ -189,7 +189,7 @@ a:active {
     -webkit-transition-delay: 0.05s;
     -o-transition-delay: 0.05s;
     transition-delay: 0.05s;
-    border-color: #7ab9ff;
+    border-color: #ffc107;
 }
 .tm-btn:after {
     width: 100%;
@@ -197,7 +197,7 @@ a:active {
     border-width: 0 1px 0 1px;
     top: 0;
     left: -1px;
-    border-color: #7ab9ff;
+    border-color: #ffc107;
 }
 .tm-btn:hover:before {
     width: 100%;
@@ -206,7 +206,7 @@ a:active {
     height: 100%;
 }
 .tm-btn:hover {
-    color: #7ab9ff;
+    color: #ffc107;
     background-color: transparent;
 }
 .tm-with-border.tm-btn {
@@ -3185,7 +3185,7 @@ a:active {
     color: rgba(255, 255, 255, 0.1);
 }
 .tm-blue-c {
-    color: #013162;
+    color: #4A4A4A;
 }
 .tm-blue-c9 {
     color: rgba(1, 49, 98, 0.9);
@@ -3215,7 +3215,7 @@ a:active {
     color: rgba(1, 49, 98, 0.1);
 }
 .tm-light-blue-c {
-    color: #7ab9ff;
+    color: #ffc107;
 }
 .tm-light-green-c {
     color: #8ae1ad;
@@ -3255,7 +3255,7 @@ a:active {
     background-color: rgba(255, 255, 255, 0.1);
 }
 .tm-light-blue-bg {
-    background-color: #013162
+    background-color: #4A4A4A
 }
 .tm-dark-blue-bg {
     background-color: #02376d;
@@ -3513,22 +3513,22 @@ a:active {
   opacity: 0.5;
 }
 .tm-preloader-in .bar-top {
-  border-top: 25px solid #7ab9ff;
+  border-top: 25px solid #ffc107;
   -webkit-animation: rotation-top 3.6s linear 0s infinite;
   animation: rotation-top 3.6s linear 0s infinite;
 }
 .tm-preloader-in .bar-right {
-  border-right: 25px solid #7ab9ff;
+  border-right: 25px solid #ffc107;
   -webkit-animation: rotation-right 3.6s linear 0s infinite;
   animation: rotation-right 3.6s linear 0s infinite;
 }
 .tm-preloader-in .bar-bottom {
-  border-bottom: 25px solid #7ab9ff;
+  border-bottom: 25px solid #ffc107;
   -webkit-animation: rotation-bottom 3.6s linear 0s infinite;
   animation: rotation-bottom 3.6s linear 0s infinite;
 }
 .tm-preloader-in .bar-left {
-  border-left: 25px solid #7ab9ff;
+  border-left: 25px solid #ffc107;
   -webkit-animation: rotation-left 3.6s linear 0s infinite;
   animation: rotation-left 3.6s linear 0s infinite;
 }
@@ -3559,7 +3559,7 @@ a:active {
     -o-transition: all 0.4s ease;
     transition: all 0.4s ease;
     z-index: 10;
-    background-color: #0058ae;
+    background-color: #ffc107;
     -webkit-box-shadow: 0px 1px 5px 1px rgba(0, 0, 0, 0.2);
     box-shadow: 0px 1px 5px 1px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
@@ -3584,7 +3584,7 @@ a:active {
 }
 .tm-header-menu {
     height: 100px;
-    background-color: #012244;
+    background-color: #868e96;
     -webkit-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
     -o-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
     transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
@@ -3675,7 +3675,7 @@ a:active {
     padding: 3px 10px;
 }
 .tm-lenguage-dropdown a:hover {
-    color: #7ab9ff;
+    color: #ffc107;
     background-color: rgba(0, 88, 174, 0.251);
 }
 .tm-menu-meta {
@@ -3808,7 +3808,7 @@ a:active {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    color: #fff;
+    color: #ffc107;
     text-transform: uppercase;
     position: relative;
 }
@@ -3825,7 +3825,7 @@ a:active {
 }
 .tm-primary-nav .menu-item-has-children > ul > li a:hover, 
 .tm-primary-nav .current-menu-parent .current-menu-item {
-    color: #7ab9ff;
+    color: #ffc107;
     background-color: rgba(0, 88, 174, 0.251);
 }
 /*Mobile Menu Button*/
@@ -3926,11 +3926,11 @@ a:active {
     position: relative;
 }
 .tm-primary-nav .menu-item > .nav-link.active {
-    color: #7ab9ff;
+    color: #ffc107;
 }
 .tm-primary-nav .menu-item > .nav-link:before {
     content: '';
-    background-color: #7ab9ff;
+    background-color: #ffc107;
     position: absolute;
     top: 0;
     left: 50%;
@@ -3993,21 +3993,21 @@ a:active {
     height: 14px;
     width: 14px;
     border-radius: 50%;
-    border: 2px solid #0058ae;
+    border: 2px solid #ffc107;
     position: relative;
     -webkit-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
 }
 .tm-fix-bar ul li a.active {
-    border-color: #7ab9ff;
+    border-color: #ffc107;
 }
 .tm-fix-bar ul li a:before {
     content: '';
     height: 6px;
     width: 6px;
     border-radius: 50%;
-    background-color: #0058ae;
+    background-color: #ffc107;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -4019,7 +4019,7 @@ a:active {
     transition: all 0.3s ease;
 }
 .tm-fix-bar ul li a.active:before {
-    background-color: #7ab9ff;
+    background-color: #ffc107;
 }
 .tm-fix-bar ul li a:after {
     content: '';
@@ -4027,7 +4027,7 @@ a:active {
     width: 0px;
     position: absolute;
     left: 100%;
-    background-color: #7ab9ff;
+    background-color: #ffc107;
     top: 3.5px;
     margin-left: 2px;
     -webkit-transition: all 0.3s ease;
@@ -4075,7 +4075,7 @@ a:active {
         -webkit-box-shadow: 1px 2px 7px 0px rgba(0, 0, 0, 0.25);
         box-shadow: 1px 2px 7px 0px rgba(0, 0, 0, 0.25);
         padding: 15px 0;
-        background-color: #013162;
+        background-color: #4A4A4A;
     }
     .small-height .tm-primary-nav-list {
         margin: 0;
@@ -4220,8 +4220,8 @@ a:active {
     position: absolute;
     left: 0;
     top: 0;
-    border: 1px solid rgb(122, 185, 255);
-    background-color: rgb(0, 88, 174);
+    border: 1px solid #ffc107;
+    background-color: #595959;
     opacity: 0.251;
     -webkit-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.35);
     box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.35);
@@ -4269,7 +4269,7 @@ a:active {
     -webkit-transition-delay: 0.05s;
     -o-transition-delay: 0.05s;
     transition-delay: 0.05s;
-    border-color: #7ab9ff;
+    border-color: #ffc107;
     -webkit-animation-name: countdown_box2;
     animation-name: countdown_box2;
     -webkit-animation-duration: 7s;
@@ -4287,7 +4287,7 @@ a:active {
     border-width: 0 1px 0 1px;
     top: 0;
     left: 0px;
-    border-color: #7ab9ff;
+    border-color: #ffc107;
     -webkit-animation-name: countdown_box1;
     animation-name: countdown_box1;
     -webkit-animation-duration: 7s;
@@ -4360,14 +4360,14 @@ a:active {
 .tm-token-status-bar-out {
     height: 40px;
     width: 100%;
-    border: 1px dashed #7ab9ff;
+    border: 1px dashed #ffc107;
     border-radius: 20px;
     padding: 3px;
 }
 .tm-token-status-bar-in {
     height: 100%;
     width: 100%;
-    background-color: #0058ae;
+    background-color: #ffc107;
     border-radius: 20px;
 }
 .tm-token-status-bar span {
@@ -4390,7 +4390,7 @@ a:active {
     content: '';
     height: 55px;
     width: 1px;
-    background-color: #7ab9ff;
+    background-color: #ffc107;
     position: absolute;
     bottom: -61px;
 }
@@ -4540,8 +4540,8 @@ a:active {
     border-radius: 50%;
     -webkit-animation: tm-video-animaion 2s linear infinite;
     animation: tm-video-animaion 2s linear infinite;
-    -webkit-box-shadow: 0 0 0 11px #7ab9ff;
-    box-shadow: 0 0 0 8px #7ab9ff;
+    -webkit-box-shadow: 0 0 0 11px #ffc107;
+    box-shadow: 0 0 0 8px #ffc107;
 }
 .tm-about-video img {
     height: 100%;
@@ -4557,7 +4557,7 @@ a:active {
 }
 .tm-video-button i {
     font-size: 72px;
-    color: #7ab9ff;
+    color: #ffc107;
 }
 @-webkit-keyframes tm-video-animaion {
   0% {
@@ -4621,7 +4621,7 @@ a:active {
     content: '';
     height: 88%;
     width: 1px;
-    background-color: #013162;
+    background-color: #4A4A4A;
     position: absolute;
     left: 0;
     top: 50%;
@@ -4633,7 +4633,7 @@ a:active {
     -webkit-box-shadow: 0px 0px 10px 0px rgba(114, 114, 114, 0.25);
     box-shadow: 0px 0px 10px 0px rgba(114, 114, 114, 0.25);
     height: 272px;
-    border-top: 2px solid #0058ae;
+    border-top: 2px solid #ffc107;
     position: relative;
     text-align: center;
     padding: 35px 10px 40px;
@@ -4650,7 +4650,7 @@ a:active {
     }*/
     .tm-single-work-icon {
         margin-bottom: 27px;
-        color: #0058ae;
+        color: #ffc107;
     }
     .tm-single-work-icon i {
         line-height: 127px;
@@ -4675,11 +4675,11 @@ a:active {
         height: 100%;
         position: absolute;
         top: 0;
-        background-color: #0058ae;
-        background: -webkit-gradient(linear, left top, left bottom, from(#0058ae), to(transparent));
-        background: -webkit-linear-gradient(#0058ae, transparent);
-        background: -o-linear-gradient(#0058ae, transparent);
-        background: linear-gradient(#0058ae, transparent);
+        background-color: #ffc107;
+        background: -webkit-gradient(linear, left top, left bottom, from(#ffc107), to(transparent));
+        background: -webkit-linear-gradient(#ffc107, transparent);
+        background: -o-linear-gradient(#ffc107, transparent);
+        background: linear-gradient(#ffc107, transparent);
     }
     .tm-single-work:before {
         left: 0;
@@ -4688,7 +4688,7 @@ a:active {
         right: 0;
     }
     .tm-comparison-table {
-        background-color: #013162;
+        background-color: #4A4A4A;
         color: #fff;
         max-width: 830px;
         margin-left: auto;
@@ -4815,7 +4815,7 @@ a:active {
         padding: 47px 0 136px;
     }
     .tm-year-box {
-        border: 1px solid rgba(0, 88, 174, 0.7);
+        border: 1px solid #868e96;
         border-radius: 50%;
         background-color: #f2f4f7;
         height: 86px;
@@ -4835,9 +4835,9 @@ a:active {
     .tm-year-box-in {
         height: 62px;
         width: 62px;
-        border: 1px solid #0058ae;
+        border: 1px solid #ffc107;
         border-radius: 50%;
-        background-color: #ced7e1;
+        background-color: #e9ecef;
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
@@ -4851,7 +4851,7 @@ a:active {
         -webkit-box-align: center;
         -ms-flex-align: center;
         align-items: center;
-        /*color: #0058ae;*/
+        /*color: #ffc107;*/
         position: relative;
         -webkit-transition: all 0.4s ease;
         -o-transition: all 0.4s ease;
@@ -4861,7 +4861,7 @@ a:active {
         transition-delay: 0.1s;
     }
     .tm-year-box-in span {
-        color: #0058ae;
+        color: #ffc107;
         -webkit-transition: all 0.4s ease;
         -o-transition: all 0.4s ease;
         transition: all 0.4s ease;
@@ -4897,7 +4897,7 @@ a:active {
     height: 8px;
     width: 8px;
     border-radius: 50%;
-    background-color: #013162;
+    background-color: #4A4A4A;
     top: 50%;
     margin-top: -4px;
 }
@@ -4942,7 +4942,7 @@ a:active {
     content: '';
     height: 8px;
     width: 8px;
-    background-color: #013162;
+    background-color: #4A4A4A;
     position: absolute;
     left: 50%;
     margin-left: -4px;
@@ -4980,7 +4980,7 @@ a:active {
     content: '';
     height: 8px;
     width: 8px;
-    background-color: #013162;
+    background-color: #4A4A4A;
     position: absolute;
     
     border-radius: 50%;
@@ -5028,10 +5028,10 @@ a:active {
     font-size: 32px;
     height: 40px;
     width: 40px;
-    border: 1px solid #0058ae;
+    border: 1px solid #ffc107;
     border-radius: 50%;
     background-color: #ced7e1;
-    color: #013162;
+    color: #4A4A4A;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -5053,8 +5053,8 @@ a:active {
 .tm-roadmap .slick-next.slick-arrow:hover:before,
 .tm-roadmap .slick-prev.slick-arrow:hover:after {
     color: #fff;
-    background-color: #013162;
-    border-color: #013162;
+    background-color: #4A4A4A;
+    border-color: #4A4A4A;
 }
 .slider.slider-nav .slick-list.draggable {
     position: relative;
@@ -5070,7 +5070,7 @@ a:active {
     max-width: 580px;
     margin: auto;
     padding: 31px 30px 28px;
-    border-top: 2px solid #0058ae;
+    border-top: 2px solid #ffc107;
     background-color: rgba(255, 255, 255, 0.949);
     -webkit-box-shadow: 0px 0px 10px 0px rgba(114, 114, 114, 0.25);
     box-shadow: 0px 0px 10px 0px rgba(114, 114, 114, 0.25);
@@ -5087,11 +5087,11 @@ a:active {
     height: 100%;
     position: absolute;
     top: 0;
-    background-color: #0058ae;
-    background: -webkit-gradient(linear, left top, left bottom, from(#0058ae), to(transparent));
-    background: -webkit-linear-gradient(#0058ae, transparent);
-    background: -o-linear-gradient(#0058ae, transparent);
-    background: linear-gradient(#0058ae, transparent);
+    background-color: #ffc107;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ffc107), to(transparent));
+    background: -webkit-linear-gradient(#ffc107, transparent);
+    background: -o-linear-gradient(#ffc107, transparent);
+    background: linear-gradient(#ffc107, transparent);
 }
 .tm-roadmap-text:before {
     left: 0;
@@ -5136,8 +5136,8 @@ a:active {
     transform: translateX(-50%);
     top: 5px;
     z-index: 1;
-    -webkit-box-shadow: 0 0 0 1px #0058ae;
-    box-shadow: 0 0 0 1px #0058ae;
+    -webkit-box-shadow: 0 0 0 1px #ffc107;
+    box-shadow: 0 0 0 1px #ffc107;
 }
 .tm-roadmap-active .tm-ra3 {
     height: 170px;
@@ -5162,7 +5162,7 @@ a:active {
     content: '';
     height: 8px;
     width: 8px;
-    background-color: #013162;
+    background-color: #4A4A4A;
     position: absolute;
     border-radius: 50%;
     left: 50%;
@@ -5190,8 +5190,8 @@ a:active {
     width: 135px;
     position: relative;
     border-radius: 50%;
-    -webkit-box-shadow: 0 0 0 1.5px #0058ae;
-    box-shadow: 0 0 0 1.5px #0058ae;
+    -webkit-box-shadow: 0 0 0 1.5px #ffc107;
+    box-shadow: 0 0 0 1.5px #ffc107;
     border: 18px solid #ccdeef;
 }
 .tm-roadmap-active-in .tm-ra1 {
@@ -5207,7 +5207,7 @@ a:active {
     content: '';
     height: 8px;
     width: 8px;
-    background-color: #013162;
+    background-color: #4A4A4A;
     position: absolute;
     left: 50%;
     margin-left: -4px;
@@ -5233,7 +5233,7 @@ a:active {
     height: 8px;
     width: 8px;
     border-radius: 50%;
-    background-color: #013162;
+    background-color: #4A4A4A;
     top: 50%;
     margin-top: -4px;
 }
@@ -5267,7 +5267,7 @@ a:active {
     height: 8px;
     width: 8px;
     border-radius: 50%;
-    background-color: #013162;
+    background-color: #4A4A4A;
 }
 .tm-roadmap-active .tm-ra1 {
     -webkit-animation: round-animation infinite 5s linear;
@@ -5370,12 +5370,12 @@ a:active {
     -ms-flex-align: center;
     align-items: center;
     height: 140px;
-    border-left: 1px solid #0058ae;
+    border-left: 1px solid #ffc107;
 }
 .tm-token-bar {
     position: relative;
     height: 1px;
-    background-color: #0058ae;
+    background-color: #ffc107;
     width: calc(100% - 300px);
     margin-left: 300px;
     display: -webkit-box;
@@ -5392,7 +5392,7 @@ a:active {
     display: block;
     height: 20px;
     width: 20px;
-    border: 1px solid #0058ae;
+    border: 1px solid #ffc107;
     border-radius: 50%;
     background-color: #fff;
     position: relative;
@@ -5401,7 +5401,7 @@ a:active {
     content: '';
     height: 10px;
     width: 10px;
-    background-color: #0058ae;
+    background-color: #ffc107;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -5415,7 +5415,7 @@ a:active {
     position: absolute;
     height: 30px;
     width: 1px;
-    background: #0058ae;
+    background: #ffc107;
     z-index: -1;
     top: -6px;
     margin-left: 9px;
@@ -5468,14 +5468,14 @@ a:active {
     display: inline-block;
     text-align: center;
     background-color: #03468a;
-    color: #7ab9ff;
+    color: #ffc107;
     text-transform: uppercase;
     padding: 10px 0;
     line-height: 25px;
     border-radius: 20px;
 }
 .tab-links li.active a {
-    background-color: #0058ae;
+    background-color: #ffc107;
     color: #fff;
 }
 
@@ -5536,8 +5536,8 @@ a:active {
     left: 0;
     top: 50%;
     margin-top: -14px;
-    color: #013162;
-    background-color: #013162;
+    color: #4A4A4A;
+    background-color: #4A4A4A;
     z-index: 2;
 }
 .accordian-toggle i {
@@ -5607,7 +5607,7 @@ a:active {
 .mailchimp input {
     width: 100%;
     height: 50px;
-    border: 1px solid #0058ae;
+    border: 1px solid #ffc107;
     background-color: transparent;
     border-radius: 10px;
     text-align: center;
@@ -5622,7 +5622,7 @@ a:active {
     display: none !important;
 }
 .subscribe-form .tm-btn:hover {
-    color: #0058ae;
+    color: #ffc107;
 }
 .mailchimp {
     position: relative;
@@ -5630,7 +5630,7 @@ a:active {
 .mailchimp label {
     position: absolute;
     left: 50%;
-    color: #013162;
+    color: #4A4A4A;
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
@@ -5651,7 +5651,7 @@ a:active {
 .tm-modal {
     width: 500px;
     margin: auto;
-    background-color: #013162;
+    background-color: #4A4A4A;
     padding: 45px 60px;
 }
 .tm-modal-title {
@@ -5663,7 +5663,7 @@ a:active {
     margin-bottom: 50px;
 }
 .tm-modal-input {
-    border-bottom: 1px solid #013162;
+    border-bottom: 1px solid #4A4A4A;
     position: relative;
 }
 .tm-modal-input input {
@@ -5715,7 +5715,7 @@ a:active {
     content: '';
     height: 1px;
     width: calc(50% - 21px);
-    background-color: #0058ae;
+    background-color: #ffc107;
     position: absolute;
     top: 50%;
 }
@@ -5760,7 +5760,7 @@ a:active {
     color: #fff;
 }
 .tm-modal-footer a:hover {
-    color: #7ab9ff;
+    color: #ffc107;
 }
 .tm-new-signup {
     position: relative;
@@ -5778,7 +5778,7 @@ a:active {
     transition: all 0.3s ease;
 }
 .tm-new-signup:hover:before {
-    background-color: #7ab9ff;
+    background-color: #ffc107;
 }
 .close {
     position: absolute;
@@ -5791,7 +5791,7 @@ a:active {
     cursor: pointer;
 }
 .close:hover {
-    color: #7ab9ff;
+    color: #ffc107;
 }
 .close:focus {
     outline: none;
@@ -7150,7 +7150,7 @@ a:active {
 }
 .tm-green-color .accordian-toggle i {
     background-color: #77d102;
-    color: #013162;
+    color: #4A4A4A;
 }
 .tm-green-color .accordian-head.active .accordian-toggle:after {
     border: 1px solid #77d102;
@@ -7814,7 +7814,7 @@ body.tm-purple-color {
 }
 .tm-purple-color .accordian-toggle {
     border: 2px solid #8547e2;
-    color: #013162;
+    color: #4A4A4A;
     background-color: #1e0139;
 }
 .tm-purple-color .accordian-toggle i {
